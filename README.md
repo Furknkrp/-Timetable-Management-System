@@ -10,7 +10,7 @@ A Java-based course scheduling system developed for the Software Engineering Dep
 | Role | Name | GitHub Username |
 | :--- | :--- | :--- |
 | Member A | Furkan Körpe | Furkn_krp |
-| Member B | Buğrahan Koçaslan | admbugraa06 |
+| Member B | Buğrahan Koçaslan | admbugraa |
 
 ---
 
