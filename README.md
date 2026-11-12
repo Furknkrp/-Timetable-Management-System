@@ -1,4 +1,4 @@
-# seng271-team03-timetable
+# seng271-team21-timetable
 # Department Course Timetable Management System
 *SENG 271 — Team 03*
 
